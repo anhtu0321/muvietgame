@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+#wrap{
+    background: #6199d1;
+    max-width:1000px;
+    margin:0 auto;
+}
+/* BANNER */
+.banner{
+    height:200px;
+    width:100%;
+    background: #bbd4b2;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #ffffff;
+    text-align: center;
+    padding:50px;
+    box-sizing: border-box;
+}
+/* MAIN */
+.main{
+    width:100%;
+    background: #dbda7e;
+    display: flex;
+    justify-content: start;
+}
+/* Menu */
+.menu{
+    flex-basis:20%;
+    background: #e090f0;
+}
+/* content */
+.content{
+    flex-basis:80%;
+    background: #374631;
+}
+/* FOOTER */
+.footer{
+    width:100%;
+    background: #17300d;
+}
