@@ -1,7 +1,7 @@
 @extends('fontend/layouts.master')
 
 @section('title')
-  <title>MUVIETGAME.NET</title>
+  <title>mu-atlantic.info</title>
 @endsection
 
 @section('content')
