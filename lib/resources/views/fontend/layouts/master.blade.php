@@ -20,15 +20,15 @@
 				<div class="content__main">
 					<div class="content__sidebar">
 						<div class="content__logo">
-							<a href="https://drive.google.com/file/d/1OQN6w7_n-szxvNhOWEPPvuC0iFqh4wiL/view?usp=sharing"><img src="lib/public/image/download-logo.png" alt=""></a>
+							<a href="https://drive.google.com/file/d/1Zl5UC-6HIALk1e9Ujrfs-CLNUhybu3Yn/view?usp=share_link"><img src="lib/public/image/download-logo.png" alt=""></a>
 						</div>
 						<div class="content__menu">
 							<ul>
 								<li><a href="#">Hướng dẫn</a></li>
 								<li><a href="#">Thông báo</a></li>
 								<li><a href="#">Nạp thẻ</a></li>
-								<li><a href="https://www.facebook.com/muvietgame.net">FANPAGE</a></li>
-								<li><a href="https://zalo.me/g/sgrblw436">Nhóm Zalo</a></li>
+								<li><a href="facebook.com/muatlantic.info">FANPAGE</a></li>
+								<li><a href="https://zalo.me/g/tzopjg068">Nhóm Zalo</a></li>
 							</ul>
 						</div>
 					</div>
