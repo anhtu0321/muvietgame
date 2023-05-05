@@ -27,7 +27,7 @@
 								<li><a href="#">Hướng dẫn</a></li>
 								<li><a href="#">Thông báo</a></li>
 								<li><a href="#">Nạp thẻ</a></li>
-								<li><a href="facebook.com/muatlantic.info">FANPAGE</a></li>
+								<li><a href="https://www.facebook.com/muatlantic.info">FANPAGE</a></li>
 								<li><a href="https://zalo.me/g/tzopjg068">Nhóm Zalo</a></li>
 							</ul>
 						</div>
