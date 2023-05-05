@@ -11,7 +11,7 @@ Route::group(['prefix'=>'admin'],function(){
     route::get('/','AdminController@getLogin')->name('admin.login');
     route::post('/','AdminController@postLogin');
     route::get('/logout','AdminController@getLogout');
-    route::get('/home','HomeController::class@getHome')->name('home');
+    route::get('/home','HomeController@getHome')->name('home');
     //Quan tri tin tuc
     route::get('/tintuc','TintucController@index');
 });

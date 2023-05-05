@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use Auth;
 class AdminController extends Controller
 {
     
@@ -13,7 +12,7 @@ class AdminController extends Controller
         }else{
             return view('backend.login');
         }
-        return view('backend.home');
+ 
     }
     public function postLogin(Request $request){
         $user_check = [
