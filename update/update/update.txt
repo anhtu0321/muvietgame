@@ -1,0 +1,7 @@
+Main.god;F6B7D35C;2063296
+Data/Local/EffectTRSData.bmd.god;978F8F93;666400
+Data/Local/MakeWorldTRSData.bmd.god;F1BD4CFA;300
+Data/Local/ServerList.bmd.god;9CF697FD;165
+Data/Local/TooltipTRSData.bmd.god;2CD91316;1157184
+Data/Custom/CustomText.txt.god;4DDB59F3;417
+Data/Custom/ServerListInfo.txt.god;F7D437D3;487
